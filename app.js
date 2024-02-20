@@ -35,3 +35,4 @@ app.get('/secret', isLoggedIn, (req, res, next) => {
     res.render('secret')
 })
 
+//testing out new change
